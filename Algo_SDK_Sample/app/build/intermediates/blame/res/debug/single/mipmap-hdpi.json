@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\The IMPERIUM\\Algo_SDK_Sample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\The IMPERIUM\\Algo_SDK_Sample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\The IMPERIUM\\Algo_SDK_Sample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\led_off.png",
+        "source": "E:\\The IMPERIUM\\Algo_SDK_Sample\\app\\src\\main\\res\\mipmap-hdpi\\led_off.png"
+    },
+    {
+        "merged": "E:\\The IMPERIUM\\Algo_SDK_Sample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\led_on.png",
+        "source": "E:\\The IMPERIUM\\Algo_SDK_Sample\\app\\src\\main\\res\\mipmap-hdpi\\led_on.png"
+    }
+]
